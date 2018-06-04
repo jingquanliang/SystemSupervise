@@ -44,7 +44,7 @@ public class Application   implements CommandLineRunner {
     public void run(String... args) throws Exception {
         System.out.println(">>>>>>>>>>>>>>>服务启动执行，执行加载数据等操作<<<<<<<<<<<<<");
         logger.info("+++==+++++++++++++++++++++userMapper:"+userMapper);
-        User user = new User("test",18);
+        User user = new User("test",28);
         Integer flag = userMapper.addUser(user);
         logger.info("flag:"+flag);
     }
