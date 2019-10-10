@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SystemSupervise.iml" filepath="$PROJECT_DIR$/SystemSupervise.iml" group="SystemSupervise" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SystemSupervise_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SystemSupervise_main.iml" group="SystemSupervise" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SystemSupervise_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SystemSupervise_test.iml" group="SystemSupervise" />
+    </modules>
+  </component>
+</project>
